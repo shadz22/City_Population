@@ -42,4 +42,10 @@ input.search {
   border-bottom: #ccc solid 2px;
   background: #e6e6e6;
   transform: perspective(100px) rotateX(3deg) translateY(2px);
+  display: flex;
+  justify-content: space-between;
+}
+
+.hl {
+  background-color: rgb(221, 169, 0);
 }
